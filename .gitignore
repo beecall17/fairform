@@ -1,3 +1,7 @@
+# raw Data too large to add on git
+data/raw/year_2023.csv
+data/raw/year_2023.csv:Zone.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
